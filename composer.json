@@ -1,0 +1,17 @@
+{
+    "name": "osvax/build-compass",
+    "description": "Start compass configuration",
+    "type": "project",
+    "keywords": [
+        "compass",
+        "sass"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Valentin Alexo",
+            "email": "osvax@yandex.ru"
+        }
+    ],
+    "require": {}
+}
