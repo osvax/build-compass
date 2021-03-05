@@ -6,7 +6,8 @@
         "compass",
         "sass"
     ],
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Valentin Alexo",
