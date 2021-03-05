@@ -1,2 +1,6 @@
 # build-compass
-11
+Исходные настройки Compass Для верстальщика
+# Запускается
+compass init
+
+compass watch
