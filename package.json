@@ -1,0 +1,23 @@
+{
+  "name": "build-compass",
+  "version": "1.0.0",
+  "description": "Start compass configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osvax/build-compass.git"
+  },
+  "keywords": [
+    "compass",
+    "sass"
+  ],
+  "author": "Valentin Alexo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osvax/build-compass/issues"
+  },
+  "homepage": "https://github.com/osvax/build-compass#readme"
+}
